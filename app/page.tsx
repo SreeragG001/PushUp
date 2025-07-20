@@ -109,7 +109,7 @@ const playSuccessSound = () => {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-3xl font-bold text-gray-800 mb-2">💪 Pushup-Tracker</h1>
-          <p className="text-gray-600">Add one pushup daily. Watch your strength grow.</p>
+          <p className="text-gray-600">Add one pushup daily.Watch your strength grow.</p>
         </div>
 
         {/* Stats Cards */}
